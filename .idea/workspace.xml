@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/filters.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ngFilter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
@@ -25,6 +24,8 @@
     <file path="/defining_a_method_on_the_scope.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368005656911" ignored="false" />
     <file path="/main5.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368006625785" ignored="false" />
     <file path="/filters.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368006548543" ignored="false" />
+    <file path="/main6.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368009706856" ignored="false" />
+    <file path="/ngFilter.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368010141688" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,9 @@
         <entry file="file://$PROJECT_DIR$/app/the_dot.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="7" selection-start="0" selection-end="673" vertical-scroll-proportion="-16.25">
-              <folding />
+              <folding>
+                <marker date="1368001383828" expanded="true" signature="155:664" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,10 +115,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main5.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main5.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="7" selection-start="401" selection-end="507" vertical-scroll-proportion="0.51724136">
+            <state line="21" column="1" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ngFilter.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ngFilter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="45" selection-start="265" selection-end="265" vertical-scroll-proportion="-7.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main6.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/main6.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="5" selection-start="129" selection-end="129" vertical-scroll-proportion="0.14367816">
               <folding />
             </state>
           </provider>
@@ -124,7 +145,7 @@
       <file leaf-file-name="defining_a_method_on_the_scope.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/defining_a_method_on_the_scope.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="10" selection-start="0" selection-end="620" vertical-scroll-proportion="-11.875">
+            <state line="4" column="72" selection-start="0" selection-end="620" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -148,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/project.clj" />
-        <option value="$PROJECT_DIR$/app/css/todo.css" />
         <option value="$PROJECT_DIR$/app/todo.html" />
         <option value="$PROJECT_DIR$/app/js/todo.js" />
         <option value="$PROJECT_DIR$/app/binding.html" />
@@ -164,11 +183,13 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/filters.html" />
         <option value="$PROJECT_DIR$/app/js/main5.js" />
+        <option value="$PROJECT_DIR$/app/js/main6.js" />
+        <option value="$PROJECT_DIR$/app/ngFilter.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1631" />
+    <option name="x" value="49" />
     <option name="y" value="24" />
     <option name="width" value="678" />
     <option name="height" value="996" />
@@ -354,7 +375,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1631" y="24" width="678" height="996" extended-state="0" />
+    <frame x="49" y="24" width="678" height="996" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -442,16 +463,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/todo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="56" selection-start="914" selection-end="914" vertical-scroll-proportion="0.65589356" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="37" selection-start="504" selection-end="526" vertical-scroll-proportion="0.5703422" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" />
@@ -486,7 +497,9 @@
     <entry file="file://$PROJECT_DIR$/app/the_dot.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="7" selection-start="0" selection-end="673" vertical-scroll-proportion="-16.25">
-          <folding />
+          <folding>
+            <marker date="1368001383828" expanded="true" signature="155:664" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -527,7 +540,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/defining_a_method_on_the_scope.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="0" selection-end="620" vertical-scroll-proportion="-11.875">
+        <state line="4" column="72" selection-start="0" selection-end="620" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -539,9 +559,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main5.js">
+    <entry file="file://$PROJECT_DIR$/app/ngFilter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="7" selection-start="401" selection-end="507" vertical-scroll-proportion="0.51724136">
+        <state line="12" column="45" selection-start="265" selection-end="265" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="129" selection-end="129" vertical-scroll-proportion="0.14367816">
           <folding />
         </state>
       </provider>
