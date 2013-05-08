@@ -29,8 +29,9 @@ The HTML files are located within the `/app` directory. To run them type
 from the command line within the root directory. This will start a server on
 `localhost:3000`.
 
-From there you can enter the name of any of the html files found in the `/app`
-directory.
+You can now run any of the html files found in the `/app`
+directory.:
+`http://localhost:3000/<filename>.html`
 
 The routing for these requests is handled from the `handler.clj` file found in
 the `src/angular_seed/` directory. The function responsible for the routing is
@@ -42,4 +43,4 @@ There are some minor differences between the code provided by John and my own.
 They amount to different file locations and some naming differences. This was
 done to give each tutorial its own JavaScript and HTML files as well as to work
 within the project structure of the angular-seed template. I've tried to make
-the HTML file names self-explanatory using the titles of John's tutorials
+the HTML file names self-explanatory using the titles of John's tutorials.
