@@ -1,5 +1,5 @@
 # Clojure/AngularJS demo app
-## using John Lindquist's egghead.io tutorials
+using John Lindquist's egghead.io tutorials
 
 ## Description
 
@@ -24,17 +24,22 @@ understanding of these, please visit their respective pages.
 
 First, you need the [lein-ring plugin](https://github.com/weavejester/lein-ring).
 
-The html files are located within the `/app` directory. To run them type
-`lein ring server` from the command line within the root directory. This will
-start a server on `localhost:3000`. From there you can enter the name of any of
-the html files found in the `/app` directory. The routing for these requests is
-handled from the `handler.clj` file found in the `src/angular_seed/` directory.
-The function responsible for the routing is `defroutes`, specifically the
-`(route/files "/" {:root "app"})` portion.
+The HTML files are located within the `/app` directory. To run them type
+`lein ring server`
+from the command line within the root directory. This will start a server on
+`localhost:3000`.
+
+From there you can enter the name of any of the html files found in the `/app`
+directory.
+
+The routing for these requests is handled from the `handler.clj` file found in
+the `src/angular_seed/` directory. The function responsible for the routing is
+`defroutes`, specifically the `(route/files "/" {:root "app"})` portion.
 
 The JavaScript files are found in the `app/js` directory.
 
 There are some minor differences between the code provided by John and my own.
 They amount to different file locations and some naming differences. This was
 done to give each tutorial its own JavaScript and HTML files as well as to work
-within the project structure of the angular-seed template.
+within the project structure of the angular-seed template. I've tried to make
+the HTML file names self-explanatory using the titles of John's tutorials
