@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/angular-seed.iml" filepath="$PROJECT_DIR$/angular-seed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clojure-angular-eggheadio.iml" filepath="$PROJECT_DIR$/clojure-angular-eggheadio.iml" />
     </modules>
   </component>
 </project>

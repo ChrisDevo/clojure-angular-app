@@ -1,10 +1,10 @@
-(defproject angular-seed "0.1.0-SNAPSHOT"
+(defproject clojure-angular-eggheadio "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [compojure "1.1.5"]]
   :min-lein-version "2.1.3"
   :plugins [[lein-ring "0.8.3"]]
-  :ring {:handler angular-seed.handler/app}
+  :ring {:handler clojure-angular-eggheadio.handler/app}
   :profiles
   {:dev {:dependencies [[ring-mock "0.1.3"]]}})

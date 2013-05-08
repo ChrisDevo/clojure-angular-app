@@ -1,4 +1,4 @@
-(ns angular-seed.handler
+(ns clojure-angular-eggheadio.handler
   (:use compojure.core)
   (:require [compojure.handler :as handler]
             [compojure.route :as route]))

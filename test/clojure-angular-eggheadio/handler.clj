@@ -1,4 +1,4 @@
-(ns angular-seed.test.handler
+(ns clojure-angular-eggheadio.test.handler
   (:use clojure.test
         ring.mock.request  
         compojure-template.handler))
