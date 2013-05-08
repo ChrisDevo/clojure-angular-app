@@ -30,8 +30,7 @@ from the command line within the root directory. This will start a server on
 `localhost:3000`.
 
 You can now run any of the html files found in the `/app`
-directory.:
-`http://localhost:3000/<filename>.html`
+directory.: `http://localhost:3000/<filename>.html`
 
 The routing for these requests is handled from the `handler.clj` file found in
 the `src/angular_seed/` directory. The function responsible for the routing is
