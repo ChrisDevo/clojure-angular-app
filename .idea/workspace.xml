@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main15.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368088404945" ignored="false" />
+    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368089384473" ignored="false" />
     <file path="/todo.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937647808" ignored="false" />
     <file path="/todo.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937791634" ignored="false" />
     <file path="/todo.css" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367936756411" ignored="false" />
@@ -44,6 +44,8 @@
     <file path="/understanding_isolate_scope.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368088249561" ignored="false" />
     <file path="/isolate_scope_&quot;=&quot;.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368089255473" ignored="false" />
     <file path="/main14.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368089095063" ignored="false" />
+    <file path="/main15.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368090160543" ignored="false" />
+    <file path="/isolate_scope_&quot;&amp;&quot;.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368090146380" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,19 +106,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="isolate_scope_&quot;=&quot;.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html">
+      <file leaf-file-name="main15.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/main15.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="11" selection-start="326" selection-end="326" vertical-scroll-proportion="0.47058824">
+            <state line="4" column="21" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main14.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main14.js">
+      <file leaf-file-name="isolate_scope_&quot;&amp;&quot;.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="2" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+            <state line="15" column="50" selection-start="403" selection-end="403" vertical-scroll-proportion="0.44117647">
               <folding />
             </state>
           </provider>
@@ -140,8 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/app/js/main8.js" />
         <option value="$PROJECT_DIR$/app/first_directive.html" />
         <option value="$PROJECT_DIR$/app/directive_restrictions.html" />
         <option value="$PROJECT_DIR$/app/js/main9.js" />
@@ -156,6 +156,8 @@
         <option value="$PROJECT_DIR$/app/isolate_scope_'='.html" />
         <option value="$PROJECT_DIR$/app/js/main14.js" />
         <option value="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" />
+        <option value="$PROJECT_DIR$/app/js/main15.js" />
+        <option value="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
       </list>
     </option>
   </component>
@@ -362,7 +364,11 @@
       <created>1368088412979</created>
       <updated>1368088412979</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adds 'isolate scope ='">
+      <created>1368089391973</created>
+      <updated>1368089391973</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -436,7 +442,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds 'understanding isolate scope'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds 'isolate scope ='" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -456,25 +462,12 @@
     <MESSAGE value="Adds 'useful behaviors'" />
     <MESSAGE value="Adds 'directives talking to controllers'" />
     <MESSAGE value="Adds 'understanding isolate scope'" />
+    <MESSAGE value="Adds 'isolate scope ='" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/first_directive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="0" selection-end="395" vertical-scroll-proportion="-10.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main8.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="0" selection-end="184" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main9.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="2" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" />
@@ -564,7 +557,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="11" selection-start="326" selection-end="326" vertical-scroll-proportion="0.47058824">
+        <state line="26" column="7" selection-start="0" selection-end="539" vertical-scroll-proportion="-16.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main15.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="21" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="50" selection-start="403" selection-end="403" vertical-scroll-proportion="0.44117647">
           <folding />
         </state>
       </provider>
