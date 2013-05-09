@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main20.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/thinking_differently_about_organization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/building_zippy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main21.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108247709" ignored="false" />
+    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368109025770" ignored="false" />
     <file path="/todo.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937647808" ignored="false" />
     <file path="/todo.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937791634" ignored="false" />
     <file path="/todo.css" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367936756411" ignored="false" />
@@ -54,6 +54,8 @@
     <file path="/an_alternative_approach_to_controllers.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108162229" ignored="false" />
     <file path="/main19.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108147136" ignored="false" />
     <file path="/main20.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108779490" ignored="false" />
+    <file path="/building_zippy.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368110143262" ignored="false" />
+    <file path="/main21.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368109895264" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,10 +116,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main20.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main20.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main20.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.14044943">
+            <state line="5" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="building_zippy.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/building_zippy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="8" selection-start="462" selection-end="462" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main21.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/main21.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="2" selection-start="612" selection-end="612" vertical-scroll-proportion="0.5898876">
               <folding />
             </state>
           </provider>
@@ -150,8 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/js/main16.js" />
-        <option value="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
         <option value="$PROJECT_DIR$/app/js/main15.js" />
         <option value="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" />
         <option value="$PROJECT_DIR$/app/js/isolate_scope_&quot;@&quot;.html" />
@@ -166,6 +184,8 @@
         <option value="$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html" />
         <option value="$PROJECT_DIR$/app/thinking_differently_about_organization.html" />
         <option value="$PROJECT_DIR$/app/js/main20.js" />
+        <option value="$PROJECT_DIR$/app/js/main21.js" />
+        <option value="$PROJECT_DIR$/app/building_zippy.html" />
       </list>
     </option>
   </component>
@@ -283,6 +303,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/js" />
+      <recent name="$PROJECT_DIR$/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app" />
@@ -399,12 +420,16 @@
       <created>1368108249932</created>
       <updated>1368108249932</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adds 'thinking differently about organization'">
+      <created>1368109028913</created>
+      <updated>1368109028913</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="52" width="825" height="992" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -422,8 +447,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3902439" sideWeight="0.64293915" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35706085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3902439" sideWeight="0.64293915" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35706085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.58798283" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -473,7 +498,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds 'an alternative approach to controllers'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds 'thinking differently about organization'" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -499,25 +524,12 @@
     <MESSAGE value="Adds 'isolate scope review'" />
     <MESSAGE value="Adds 'transclusion basics'" />
     <MESSAGE value="Adds 'an alternative approach to controllers'" />
+    <MESSAGE value="Adds 'thinking differently about organization'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/js/main13.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="60" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main16.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="2" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="45" selection-start="509" selection-end="509" vertical-scroll-proportion="0.75630254">
@@ -614,7 +626,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main20.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.14044943">
+        <state line="5" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/building_zippy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="8" selection-start="462" selection-end="462" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main21.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="2" selection-start="612" selection-end="612" vertical-scroll-proportion="0.5898876">
           <folding />
         </state>
       </provider>
