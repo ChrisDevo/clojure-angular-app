@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main19.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main20.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/thinking_differently_about_organization.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368107006704" ignored="false" />
+    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108247709" ignored="false" />
     <file path="/todo.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937647808" ignored="false" />
     <file path="/todo.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937791634" ignored="false" />
     <file path="/todo.css" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367936756411" ignored="false" />
@@ -53,6 +53,7 @@
     <file path="/main18.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368106825448" ignored="false" />
     <file path="/an_alternative_approach_to_controllers.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108162229" ignored="false" />
     <file path="/main19.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108147136" ignored="false" />
+    <file path="/main20.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368108779490" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,19 +114,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main19.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main19.js">
+      <file leaf-file-name="main20.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/main20.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="2" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+            <state line="5" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.14044943">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="an_alternative_approach_to_controllers.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html">
+      <file leaf-file-name="thinking_differently_about_organization.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/thinking_differently_about_organization.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="46" selection-start="297" selection-end="297" vertical-scroll-proportion="0.39235413">
+            <state line="20" column="45" selection-start="458" selection-end="458" vertical-scroll-proportion="-12.5">
               <folding />
             </state>
           </provider>
@@ -149,8 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/understanding_isolate_scope.html" />
-        <option value="$PROJECT_DIR$/app/isolate_scope_'='.html" />
         <option value="$PROJECT_DIR$/app/js/main16.js" />
         <option value="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
         <option value="$PROJECT_DIR$/app/js/main15.js" />
@@ -165,6 +164,8 @@
         <option value="$PROJECT_DIR$/app/js/main18.js" />
         <option value="$PROJECT_DIR$/app/js/main19.js" />
         <option value="$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html" />
+        <option value="$PROJECT_DIR$/app/thinking_differently_about_organization.html" />
+        <option value="$PROJECT_DIR$/app/js/main20.js" />
       </list>
     </option>
   </component>
@@ -280,6 +281,9 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app" />
     </key>
@@ -391,7 +395,11 @@
       <created>1368107011154</created>
       <updated>1368107011154</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adds 'an alternative approach to controllers'">
+      <created>1368108249932</created>
+      <updated>1368108249932</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -465,7 +473,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds 'transclusion basics'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds 'an alternative approach to controllers'" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -490,25 +498,12 @@
     <MESSAGE value="Adds 'isolate scope @'" />
     <MESSAGE value="Adds 'isolate scope review'" />
     <MESSAGE value="Adds 'transclusion basics'" />
+    <MESSAGE value="Adds 'an alternative approach to controllers'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/binding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/directives_talking_to_controllers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="0" selection-end="489" vertical-scroll-proportion="-13.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main13.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="60" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
@@ -605,7 +600,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="46" selection-start="297" selection-end="297" vertical-scroll-proportion="0.39235413">
+        <state line="23" column="7" selection-start="0" selection-end="489" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/thinking_differently_about_organization.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="45" selection-start="458" selection-end="458" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main20.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.14044943">
           <folding />
         </state>
       </provider>
