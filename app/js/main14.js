@@ -7,8 +7,8 @@ app.controller("AppCtrl", function($scope) {
 app.directive("drink", function() {
     return {
         scope: {
-            flavor: "="
+            flavor: "@"
         },
-        template: '<input type="text" ng-model="flavor">'
+        template: '<div>{{flavor}}</div>'
     }
 })

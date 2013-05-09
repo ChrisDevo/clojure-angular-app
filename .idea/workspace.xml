@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main15.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;@&quot;.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main16.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main14.js" afterPath="$PROJECT_DIR$/app/js/main14.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main15.js" afterPath="$PROJECT_DIR$/app/js/main15.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368089384473" ignored="false" />
+    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368090348556" ignored="false" />
     <file path="/todo.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937647808" ignored="false" />
     <file path="/todo.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937791634" ignored="false" />
     <file path="/todo.css" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367936756411" ignored="false" />
@@ -43,9 +47,10 @@
     <file path="/main13.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368088242466" ignored="false" />
     <file path="/understanding_isolate_scope.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368088249561" ignored="false" />
     <file path="/isolate_scope_&quot;=&quot;.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368089255473" ignored="false" />
-    <file path="/main14.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368089095063" ignored="false" />
+    <file path="/main14.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368090999303" ignored="false" />
     <file path="/main15.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368090160543" ignored="false" />
     <file path="/isolate_scope_&quot;&amp;&quot;.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368090146380" ignored="false" />
+    <file path="/isolate_scope_&quot;@&quot;.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368091147734" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,19 +111,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main15.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main15.js">
+      <file leaf-file-name="main14.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/main14.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
+            <state line="11" column="41" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="isolate_scope_&quot;&amp;&quot;.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html">
+      <file leaf-file-name="isolate_scope_&quot;@&quot;.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;@&quot;.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="50" selection-start="403" selection-end="403" vertical-scroll-proportion="0.44117647">
+            <state line="23" column="7" selection-start="517" selection-end="517" vertical-scroll-proportion="0.694165">
               <folding />
             </state>
           </provider>
@@ -142,9 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/first_directive.html" />
-        <option value="$PROJECT_DIR$/app/directive_restrictions.html" />
-        <option value="$PROJECT_DIR$/app/js/main9.js" />
         <option value="$PROJECT_DIR$/app/js/main10.js" />
         <option value="$PROJECT_DIR$/app/basic_behaviors.html" />
         <option value="$PROJECT_DIR$/app/js/main11.js" />
@@ -154,10 +156,13 @@
         <option value="$PROJECT_DIR$/app/js/main13.js" />
         <option value="$PROJECT_DIR$/app/understanding_isolate_scope.html" />
         <option value="$PROJECT_DIR$/app/isolate_scope_'='.html" />
-        <option value="$PROJECT_DIR$/app/js/main14.js" />
-        <option value="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" />
-        <option value="$PROJECT_DIR$/app/js/main15.js" />
+        <option value="$PROJECT_DIR$/app/js/main16.js" />
         <option value="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
+        <option value="$PROJECT_DIR$/app/js/main15.js" />
+        <option value="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" />
+        <option value="$PROJECT_DIR$/app/js/isolate_scope_&quot;@&quot;.html" />
+        <option value="$PROJECT_DIR$/app/js/main14.js" />
+        <option value="$PROJECT_DIR$/app/isolate_scope_&quot;@&quot;.html" />
       </list>
     </option>
   </component>
@@ -368,7 +373,11 @@
       <created>1368089391973</created>
       <updated>1368089391973</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adds 'isolate scope &amp;'">
+      <created>1368090350870</created>
+      <updated>1368090350870</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -391,7 +400,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3902439" sideWeight="0.64293915" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3902439" sideWeight="0.64293915" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35706085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -442,7 +451,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds 'isolate scope ='" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds 'isolate scope &amp;'" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -463,23 +472,12 @@
     <MESSAGE value="Adds 'directives talking to controllers'" />
     <MESSAGE value="Adds 'understanding isolate scope'" />
     <MESSAGE value="Adds 'isolate scope ='" />
+    <MESSAGE value="Adds 'isolate scope &amp;'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/js/main9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="2" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/directive_restrictions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="0" selection-end="465" vertical-scroll-proportion="-11.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/ngFilter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="7" selection-start="0" selection-end="637" vertical-scroll-proportion="-0.625">
@@ -534,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/understanding_isolate_scope.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="0" selection-end="459" vertical-scroll-proportion="0.5588235">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main13.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="60" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
@@ -548,30 +539,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main14.js">
+    <entry file="file://$PROJECT_DIR$/app/js/main16.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="2" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+        <state line="16" column="2" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="0" selection-end="539" vertical-scroll-proportion="-16.25">
+        <state line="24" column="45" selection-start="509" selection-end="509" vertical-scroll-proportion="0.75630254">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main15.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
+        <state line="13" column="2" selection-start="296" selection-end="296" vertical-scroll-proportion="0.39">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="50" selection-start="403" selection-end="403" vertical-scroll-proportion="0.44117647">
+        <state line="22" column="45" selection-start="540" selection-end="540" vertical-scroll-proportion="0.6639839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/understanding_isolate_scope.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="7" selection-start="0" selection-end="459" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="41" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/isolate_scope_&quot;@&quot;.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="517" selection-end="517" vertical-scroll-proportion="0.694165">
           <folding />
         </state>
       </provider>
