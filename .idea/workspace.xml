@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/directives_talking_to_controllers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main12.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main13.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/understanding_isolate_scope.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368020482047" ignored="false" />
+    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368086406418" ignored="false" />
     <file path="/todo.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937647808" ignored="false" />
     <file path="/todo.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937791634" ignored="false" />
     <file path="/todo.css" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367936756411" ignored="false" />
@@ -40,6 +40,8 @@
     <file path="/useful_behaviors.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368021071966" ignored="false" />
     <file path="/main12.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368022354145" ignored="false" />
     <file path="/directives_talking_to_controllers.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368022381860" ignored="false" />
+    <file path="/main13.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368088242466" ignored="false" />
+    <file path="/understanding_isolate_scope.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368088249561" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -91,6 +92,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -100,37 +102,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="useful_behaviors.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/useful_behaviors.html">
+      <file leaf-file-name="main13.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/main13.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="239" selection-end="239" vertical-scroll-proportion="-6.25">
+            <state line="16" column="60" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="directives_talking_to_controllers.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/directives_talking_to_controllers.html">
+      <file leaf-file-name="understanding_isolate_scope.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/understanding_isolate_scope.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="24" selection-start="277" selection-end="277" vertical-scroll-proportion="-8.125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main11.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main11.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="2" selection-start="0" selection-end="432" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main12.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/js/main12.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="59" selection-end="59" vertical-scroll-proportion="0.048859935">
+            <state line="11" column="33" selection-start="284" selection-end="284" vertical-scroll-proportion="0.32226562">
               <folding />
             </state>
           </provider>
@@ -154,8 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/built-in_filters.html" />
-        <option value="$PROJECT_DIR$/project.clj" />
         <option value="$PROJECT_DIR$/src/angular_seed/handler.clj" />
         <option value="$PROJECT_DIR$/test/angular-seed/handler.clj" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -170,6 +152,8 @@
         <option value="$PROJECT_DIR$/app/useful_behaviors.html" />
         <option value="$PROJECT_DIR$/app/js/main12.js" />
         <option value="$PROJECT_DIR$/app/directives_talking_to_controllers.html" />
+        <option value="$PROJECT_DIR$/app/js/main13.js" />
+        <option value="$PROJECT_DIR$/app/understanding_isolate_scope.html" />
       </list>
     </option>
   </component>
@@ -183,8 +167,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="50" />
     <option name="y" value="52" />
-    <option name="width" value="641" />
-    <option name="height" value="782" />
+    <option name="width" value="825" />
+    <option name="height" value="992" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -273,7 +257,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
     <property name="last_opened_file_path" value="$USER_HOME$/heroku-clojure-app" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -281,8 +265,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -301,7 +285,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -368,11 +352,15 @@
       <created>1368020489027</created>
       <updated>1368020489027</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adds 'directives talking to controllers'">
+      <created>1368022457624</created>
+      <updated>1368022457624</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="52" width="641" height="782" extended-state="0" />
+    <frame x="50" y="52" width="825" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -386,16 +374,16 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33781514" sideWeight="0.41201717" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34651405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39147288" sideWeight="0.65367484" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35624284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.58798283" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -405,8 +393,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -442,7 +430,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds 'useful behaviors'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds 'directives talking to controllers'" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -460,32 +448,12 @@
     <MESSAGE value="Adds 'directive restrictions'" />
     <MESSAGE value="Adds 'basic behaviors'" />
     <MESSAGE value="Adds 'useful behaviors'" />
+    <MESSAGE value="Adds 'directives talking to controllers'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.48128343">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clojure-angular-eggheadio.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/built-in_filters.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="7" selection-start="0" selection-end="690" vertical-scroll-proportion="-16.875">
@@ -495,9 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main7.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="5" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.80748665">
-          <folding />
-        </state>
+        <state line="51" column="5" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.80748665" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/first_directive.html">
@@ -516,9 +482,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main9.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="2" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="26" column="2" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/directive_restrictions.html">
@@ -544,35 +508,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main10.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="2" selection-start="0" selection-end="431" vertical-scroll-proportion="0.0">
+        <state line="16" column="2" selection-start="0" selection-end="431" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/useful_behaviors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="21" selection-start="239" selection-end="239" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main11.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="2" selection-start="0" selection-end="432" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/useful_behaviors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="239" selection-end="239" vertical-scroll-proportion="-6.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/directives_talking_to_controllers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="277" selection-end="277" vertical-scroll-proportion="-8.125">
+        <state line="16" column="2" selection-start="432" selection-end="432" vertical-scroll-proportion="0.44444445">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main12.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="59" selection-end="59" vertical-scroll-proportion="0.048859935">
+        <state line="18" column="2" selection-start="441" selection-end="441" vertical-scroll-proportion="0.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/binding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/directives_talking_to_controllers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="0" selection-end="489" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="60" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/understanding_isolate_scope.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="33" selection-start="284" selection-end="284" vertical-scroll-proportion="0.32226562">
           <folding />
         </state>
       </provider>
