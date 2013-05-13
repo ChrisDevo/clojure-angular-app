@@ -2,13 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/$scope_vs_scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main24.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templateUrl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_time_clj_time_0_3_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_time_clj_time_0_3_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clout_clout_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clout_clout_1_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_codec_commons_codec_1_6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_fileupload_commons_fileupload_1_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_fileupload_commons_fileupload_1_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_io_commons_io_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_io_commons_io_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__compojure_compojure_1_1_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__compojure_compojure_1_1_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__javax_servlet_servlet_api_2_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__joda_time_joda_time_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__joda_time_joda_time_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_5_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_5_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_incubator_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_incubator_0_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_macro_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_macro_0_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_mock_ring_mock_0_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_mock_ring_mock_0_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_core_1_1_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_core_1_1_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__clj_time_clj_time_0_3_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__clj_time_clj_time_0_3_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__clout_clout_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__clout_clout_1_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__compojure_compojure_1_1_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__compojure_compojure_1_1_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_clojure_1_5_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_clojure_1_5_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_core_incubator_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_core_incubator_0_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_tools_macro_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_tools_macro_0_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ring_mock_ring_mock_0_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ring_mock_ring_mock_0_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ring_ring_core_1_1_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ring_ring_core_1_1_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clojure-angular-eggheadio.iml" afterPath="$PROJECT_DIR$/clojure-angular-eggheadio.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368180050798" ignored="false" />
+    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368432015352" ignored="false" />
     <file path="/todo.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937647808" ignored="false" />
     <file path="/todo.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937791634" ignored="false" />
     <file path="/todo.css" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367936756411" ignored="false" />
@@ -62,6 +90,9 @@
     <file path="/angular_dot_element.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368179046219" ignored="false" />
     <file path="/$scope_vs_scope.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368181746700" ignored="false" />
     <file path="/main23.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368182620237" ignored="false" />
+    <file path="/main24.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368433796559" ignored="false" />
+    <file path="/HTML Fragment (main24.js:205).html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368433673210" ignored="false" />
+    <file path="/templateUrl.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368434005448" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,19 +153,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main23.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main23.js">
+      <file leaf-file-name="main24.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/main24.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="36" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+            <state line="7" column="21" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="$scope_vs_scope.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/$scope_vs_scope.html">
+      <file leaf-file-name="templateUrl.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/templateUrl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="36" selection-start="395" selection-end="395" vertical-scroll-proportion="0.34969324">
+            <state line="29" column="7" selection-start="726" selection-end="726" vertical-scroll-proportion="0.5129717">
               <folding />
             </state>
           </provider>
@@ -158,9 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/js/main18.js" />
-        <option value="$PROJECT_DIR$/app/js/main19.js" />
-        <option value="$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html" />
         <option value="$PROJECT_DIR$/app/thinking_differently_about_organization.html" />
         <option value="$PROJECT_DIR$/app/js/main20.js" />
         <option value="$PROJECT_DIR$/app/js/main21.js" />
@@ -174,6 +202,9 @@
         <option value="$PROJECT_DIR$/app/js/main22.js" />
         <option value="$PROJECT_DIR$/app/$scope_vs_scope.html" />
         <option value="$PROJECT_DIR$/app/js/main23.js" />
+        <option value="/HTML Fragment (main24.js:205).html" />
+        <option value="$PROJECT_DIR$/app/templateUrl.html" />
+        <option value="$PROJECT_DIR$/app/js/main24.js" />
       </list>
     </option>
   </component>
@@ -185,10 +216,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
+    <option name="x" value="50" />
     <option name="y" value="52" />
-    <option name="width" value="920" />
-    <option name="height" value="997" />
+    <option name="width" value="942" />
+    <option name="height" value="992" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -216,6 +247,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,7 +300,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -277,7 +308,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="preferences.sourceCode" />
     <property name="last_opened_file_path" value="$USER_HOME$/heroku-clojure-app" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -285,13 +316,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/js" />
       <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app" />
@@ -300,13 +331,14 @@
   <component name="RestClientSettings">
     <option name="LAST_HOST" value="http://localhost:3000/angular.element.html" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+  <component name="RunManager" selected="Leiningen.ring server">
+    <configuration default="true" type="LeiningenRunConfiguration" factoryName="Leiningen">
+      <LeiningenRunnerParameters>
+        <option name="goals">
+          <list />
+        </option>
+        <option name="workingDirectory" value="" />
+      </LeiningenRunnerParameters>
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
@@ -330,7 +362,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Leiningen.ring server" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -420,35 +454,39 @@
       <created>1368180061654</created>
       <updated>1368180061654</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Adds '$scope vs. scope'">
+      <created>1368182715616</created>
+      <updated>1368182715616</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="52" width="920" height="997" extended-state="0" />
+    <frame x="50" y="52" width="942" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38907468" sideWeight="0.6736494" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33712983" sideWeight="0.49564677" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35673186" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.6609589" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5876516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33712983" sideWeight="0.49564677" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2935268" sideWeight="0.64476615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35523385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5876516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -479,7 +517,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -495,7 +533,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds 'angular.element'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds '$scope vs. scope'" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -524,6 +562,7 @@
     <MESSAGE value="Adds 'thinking differently about organization'" />
     <MESSAGE value="Adds 'building zippy'" />
     <MESSAGE value="Adds 'angular.element'" />
+    <MESSAGE value="Adds '$scope vs. scope'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -574,47 +613,47 @@
         <state line="23" column="7" selection-start="0" selection-end="507" vertical-scroll-proportion="-0.625" />
       </provider>
     </entry>
-    <entry file="file:///tmp/tmpRestClientResponse3448586544309995876.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file:///tmp/tmpRestClientResponse4104962712113992580.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="8" selection-start="1442" selection-end="1447" vertical-scroll-proportion="0.9323583">
-          <folding />
-        </state>
+        <state line="34" column="8" selection-start="1442" selection-end="1447" vertical-scroll-proportion="0.9323583" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/angular.element.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="0" selection-end="354" vertical-scroll-proportion="-10.625">
-          <folding />
-        </state>
+        <state line="17" column="34" selection-start="0" selection-end="354" vertical-scroll-proportion="-10.625" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main22.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="369" selection-end="369" vertical-scroll-proportion="0.20171149">
+        <state line="10" column="10" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main23.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+        <state line="12" column="3" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/$scope_vs_scope.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="36" selection-start="395" selection-end="395" vertical-scroll-proportion="0.34969324">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main24.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templateUrl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="7" selection-start="726" selection-end="726" vertical-scroll-proportion="0.5129717">
           <folding />
         </state>
       </provider>
