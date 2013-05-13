@@ -1,42 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/main24.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templateUrl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_time_clj_time_0_3_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_time_clj_time_0_3_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clout_clout_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clout_clout_1_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_codec_commons_codec_1_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_fileupload_commons_fileupload_1_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_fileupload_commons_fileupload_1_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_io_commons_io_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_io_commons_io_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__compojure_compojure_1_1_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__compojure_compojure_1_1_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__javax_servlet_servlet_api_2_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__joda_time_joda_time_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__joda_time_joda_time_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_5_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_5_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_incubator_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_incubator_0_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_macro_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_macro_0_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_mock_ring_mock_0_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_mock_ring_mock_0_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_core_1_1_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_core_1_1_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__clj_time_clj_time_0_3_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__clj_time_clj_time_0_3_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__clout_clout_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__clout_clout_1_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__compojure_compojure_1_1_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__compojure_compojure_1_1_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_clojure_1_5_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_clojure_1_5_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_core_incubator_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_core_incubator_0_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_tools_macro_0_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clojure_tools_macro_0_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ring_mock_ring_mock_0_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ring_mock_ring_mock_0_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ring_ring_core_1_1_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ring_ring_core_1_1_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clojure-angular-eggheadio.iml" afterPath="$PROJECT_DIR$/clojure-angular-eggheadio.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="242aed1c-587e-4253-a329-bbae14c0476e" name="Default" comment="Changes src for angularjs.min.js to Google CDN">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/$scope_vs_scope.html" afterPath="$PROJECT_DIR$/app/$scope_vs_scope.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html" afterPath="$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/angular.element.html" afterPath="$PROJECT_DIR$/app/angular.element.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/basic_behaviors.html" afterPath="$PROJECT_DIR$/app/basic_behaviors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/binding.html" afterPath="$PROJECT_DIR$/app/binding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/building_zippy.html" afterPath="$PROJECT_DIR$/app/building_zippy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/built-in_filters.html" afterPath="$PROJECT_DIR$/app/built-in_filters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers.html" afterPath="$PROJECT_DIR$/app/controllers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/defining_a_method_on_the_scope.html" afterPath="$PROJECT_DIR$/app/defining_a_method_on_the_scope.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/directive_restrictions.html" afterPath="$PROJECT_DIR$/app/directive_restrictions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/directives_talking_to_controllers.html" afterPath="$PROJECT_DIR$/app/directives_talking_to_controllers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/filters.html" afterPath="$PROJECT_DIR$/app/filters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/first_directive.html" afterPath="$PROJECT_DIR$/app/first_directive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index-async.html" afterPath="$PROJECT_DIR$/app/index-async.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;&amp;&quot;.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;=&quot;.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/isolate_scope_&quot;@&quot;.html" afterPath="$PROJECT_DIR$/app/isolate_scope_&quot;@&quot;.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/isolate_scope_review.html" afterPath="$PROJECT_DIR$/app/isolate_scope_review.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/karma.conf.js" afterPath="$PROJECT_DIR$/config/karma.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/ngFilter.html" afterPath="$PROJECT_DIR$/app/ngFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sharing_data_between_controllers.html" afterPath="$PROJECT_DIR$/app/sharing_data_between_controllers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templateUrl.html" afterPath="$PROJECT_DIR$/app/templateUrl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/the_dot.html" afterPath="$PROJECT_DIR$/app/the_dot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/thinking_differently_about_organization.html" afterPath="$PROJECT_DIR$/app/thinking_differently_about_organization.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/todo.html" afterPath="$PROJECT_DIR$/app/todo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/transclusion_basics.html" afterPath="$PROJECT_DIR$/app/transclusion_basics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/understanding_isolate_scope.html" afterPath="$PROJECT_DIR$/app/understanding_isolate_scope.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/useful_behaviors.html" afterPath="$PROJECT_DIR$/app/useful_behaviors.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368432015352" ignored="false" />
+    <file path="/Dummy.txt" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368443979990" ignored="false" />
     <file path="/todo.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937647808" ignored="false" />
     <file path="/todo.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367937791634" ignored="false" />
     <file path="/todo.css" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1367936756411" ignored="false" />
@@ -55,7 +54,7 @@
     <file path="/main6.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368009706856" ignored="false" />
     <file path="/ngFilter.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368010141688" ignored="false" />
     <file path="/built-in_filters.html" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368010676677" ignored="false" />
-    <file path="/a.dummy" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368175983754" ignored="false" />
+    <file path="/a.dummy" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368443840898" ignored="false" />
     <file path="/pom.xml" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368012323483" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368013407706" ignored="false" />
     <file path="/main8.js" changelist="242aed1c-587e-4253-a329-bbae14c0476e" time="1368013768317" ignored="false" />
@@ -153,19 +152,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main24.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main24.js">
+      <file leaf-file-name="templateUrl.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/templateUrl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="21" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+            <state line="25" column="13" selection-start="639" selection-end="707" vertical-scroll-proportion="0.42613637">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templateUrl.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/templateUrl.html">
+      <file leaf-file-name="main24.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/main24.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="7" selection-start="726" selection-end="726" vertical-scroll-proportion="0.5129717">
+            <state line="7" column="21" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -189,22 +188,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/thinking_differently_about_organization.html" />
-        <option value="$PROJECT_DIR$/app/js/main20.js" />
-        <option value="$PROJECT_DIR$/app/js/main21.js" />
-        <option value="$PROJECT_DIR$/app/building_zippy.html" />
-        <option value="/tmp/tmpRestClientResponse4104962712113992580.html" />
-        <option value="/tmp/tmpRestClientResponse3448586544309995876.html" />
-        <option value="/HTML Fragment (main22.js:135).html" />
-        <option value="$PROJECT_DIR$/app/angular_dot_element.html" />
-        <option value="$PROJECT_DIR$/app/angular.element.html" />
-        <option value="/HTML Fragment (main22.js:160).html" />
-        <option value="$PROJECT_DIR$/app/js/main22.js" />
-        <option value="$PROJECT_DIR$/app/$scope_vs_scope.html" />
-        <option value="$PROJECT_DIR$/app/js/main23.js" />
         <option value="/HTML Fragment (main24.js:205).html" />
-        <option value="$PROJECT_DIR$/app/templateUrl.html" />
         <option value="$PROJECT_DIR$/app/js/main24.js" />
+        <option value="$PROJECT_DIR$/app/templateUrl.html" />
+        <option value="$PROJECT_DIR$/app/$scope_vs_scope.html" />
+        <option value="$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html" />
+        <option value="$PROJECT_DIR$/app/angular.element.html" />
+        <option value="$PROJECT_DIR$/app/basic_behaviors.html" />
+        <option value="$PROJECT_DIR$/app/binding.html" />
+        <option value="$PROJECT_DIR$/app/building_zippy.html" />
+        <option value="$PROJECT_DIR$/app/built-in_filters.html" />
+        <option value="$PROJECT_DIR$/app/controllers.html" />
+        <option value="$PROJECT_DIR$/app/defining_a_method_on_the_scope.html" />
+        <option value="$PROJECT_DIR$/app/directive_restrictions.html" />
+        <option value="$PROJECT_DIR$/app/directives_talking_to_controllers.html" />
+        <option value="$PROJECT_DIR$/app/filters.html" />
+        <option value="$PROJECT_DIR$/app/first_directive.html" />
       </list>
     </option>
   </component>
@@ -216,10 +215,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="52" />
-    <option name="width" value="942" />
-    <option name="height" value="992" />
+    <option name="x" value="49" />
+    <option name="y" value="24" />
+    <option name="width" value="1631" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -458,16 +457,21 @@
       <created>1368182715616</created>
       <updated>1368182715616</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adds 'templateUrl'">
+      <created>1368434546061</created>
+      <updated>1368434546061</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="52" width="942" height="992" extended-state="0" />
+    <frame x="49" y="24" width="1631" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5870536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.6609589" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -476,16 +480,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2935268" sideWeight="0.64476615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1659306" sideWeight="0.41294643" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35523385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5876516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -533,7 +536,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds '$scope vs. scope'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds 'templateUrl'" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -563,73 +566,12 @@
     <MESSAGE value="Adds 'building zippy'" />
     <MESSAGE value="Adds 'angular.element'" />
     <MESSAGE value="Adds '$scope vs. scope'" />
+    <MESSAGE value="Adds 'templateUrl'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/isolate_scope_review.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="0" selection-end="725" vertical-scroll-proportion="-15.625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/transclusion_basics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="0" selection-end="499" vertical-scroll-proportion="-15.625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main18.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="284" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main19.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="0" selection-end="489" vertical-scroll-proportion="-14.375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/thinking_differently_about_organization.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="45" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main20.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="14" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main21.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="2" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/building_zippy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="0" selection-end="507" vertical-scroll-proportion="-0.625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="8" selection-start="1442" selection-end="1447" vertical-scroll-proportion="0.9323583" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/angular.element.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="0" selection-end="354" vertical-scroll-proportion="-10.625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main22.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="10" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main23.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="3" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
@@ -639,7 +581,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/$scope_vs_scope.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+        <state line="15" column="13" selection-start="308" selection-end="308" vertical-scroll-proportion="-8.083333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/an_alternative_approach_to_controllers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="36" selection-start="379" selection-end="379" vertical-scroll-proportion="-7.2083335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/angular.element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="267" selection-end="267" vertical-scroll-proportion="-7.2083335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/first_directive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="36" selection-start="286" selection-end="286" vertical-scroll-proportion="0.25324675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/filters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="36" selection-start="502" selection-end="502" vertical-scroll-proportion="0.43615675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/directives_talking_to_controllers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="379" selection-end="379" vertical-scroll-proportion="0.34134007">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/directive_restrictions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="36" selection-start="356" selection-end="356" vertical-scroll-proportion="0.2770936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/defining_a_method_on_the_scope.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="36" selection-start="511" selection-end="511" vertical-scroll-proportion="0.42487684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="476" selection-end="476" vertical-scroll-proportion="0.36945814">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/built-in_filters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="36" selection-start="581" selection-end="581" vertical-scroll-proportion="0.41416568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/building_zippy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="420" selection-end="420" vertical-scroll-proportion="0.34213686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/binding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="36" selection-start="397" selection-end="397" vertical-scroll-proportion="0.28811523">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/basic_behaviors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="36" selection-start="302" selection-end="302" vertical-scroll-proportion="0.23409364">
           <folding />
         </state>
       </provider>
@@ -653,7 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templateUrl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="726" selection-end="726" vertical-scroll-proportion="0.5129717">
+        <state line="25" column="13" selection-start="639" selection-end="707" vertical-scroll-proportion="0.42613637">
           <folding />
         </state>
       </provider>
